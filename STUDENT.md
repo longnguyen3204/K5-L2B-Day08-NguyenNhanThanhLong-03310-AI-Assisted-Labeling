@@ -5,7 +5,7 @@
 - Lớp: L2B
 - Tài khoản GitHub: longnguyen3204
 - Repo bài nộp (URL): https://github.com/longnguyen3204/K5-L2B-Day08-NguyenNhanThanhLong-03310-AI-Assisted-Labeling
-- Commit chốt bài (hash): chưa ghi nhận
+- Commit chốt bài (hash): 4da5e5f88a0542146cce9976669f4542222d0a89
 - Máy: có log chạy YOLO trên CUDA; Windows 11. SAM r04 chạy CPU.
 - CVAT (Docker): 2.81.0
 
