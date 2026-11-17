@@ -1,1 +1,3 @@
 step,images,minutes,note
+gold_manual,4,15,"gán nhãn tay 4 ảnh gold"
+batch_review,24,90,"duyệt đủ 24 ảnh theo checklist 4 bước; dùng Filters, tick can_review cho ca biên."
